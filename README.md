@@ -7,7 +7,7 @@
   - Summary
   - Read time
   - Difficulty
-- return the resulting scraped information and derived information for use in a consumer interface
+- Return the resulting scraped information and derived information for use in a consumer interface
 
 ## Setup
 
@@ -23,7 +23,7 @@
   - Author
   - Date
   - Image
-  - Body of text
+  - Content (body of text)
 - This 'scrapped data' is then sent to the LLaMA model (and potentially other decision makers) to gather the following 'derived data'
   - Summary
   - Read time
